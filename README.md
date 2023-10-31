@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 [![An image of @farukhs52's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/farukhs52)](https://holopin.io/@farukhs52)
 
 [![](https://visitcount.itsvg.in/api?id=FarukhS52&label=Profile%20Views&color=5&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=FarukhS52&label=Profile%20Views&color=5&icon=5&pretty=false" />
+</a>
