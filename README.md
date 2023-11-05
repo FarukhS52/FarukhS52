@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=FarukhS52&style=for-the-badge&label=PROFILE+VIEWS)
 <!--
 **FarukhS52/FarukhS52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
