@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 [![An image of @farukhs52's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/farukhs52)](https://holopin.io/@farukhs52)
 
 
+![Farookh's's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarukhS52&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 [![](https://visitcount.itsvg.in/api?id=FarukhS52&label=Profile%20Views&color=5&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 
