@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![An image of @farukhs52's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/farukhs52)](https://holopin.io/@farukhs52)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=FarukhS52&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=FarukhS52&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ![Farookh's's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarukhS52&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
