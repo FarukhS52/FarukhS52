@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarukhS52&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/FarukhS52/FarukhS52/blob/output/github-contribution-grid-snake.svg)
+
 
 [![](https://visitcount.itsvg.in/api?id=FarukhS52&label=Profile%20Views&color=5&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
