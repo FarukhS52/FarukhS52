@@ -4,12 +4,9 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sFarukhS52/count.svg" />
+  <img src="https://profile-counter.glitch.me/FarukhS52/count.svg" />
 </p>
 
-<a href="https://www.instagram.com/imnot_farukh/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
 
 ![](https://komarev.com/ghpvc/?username=FarukhS52&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -31,15 +28,27 @@ Here are some ideas to get you started:
 
 [![An image of @farukhs52's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/farukhs52)](https://holopin.io/@farukhs52)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=FarukhS52&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=FarukhS52&theme=synthwave)](https://git.io/streak-stats)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imnot_farukh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farookh-siddiqui-659b52230/) 
 
-![Farookh's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarukhS52&show_icons=true&theme=synthwave&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=FarukhS52&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=FarukhS52&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FarukhS52&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarukhS52&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=FarukhS52&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-![snake gif](https://github.com/FarukhS52/FarukhS52/blob/output/github-contribution-grid-snake.gif)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 [![](https://visitcount.itsvg.in/api?id=FarukhS52&label=Profile%20Views&color=5&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
