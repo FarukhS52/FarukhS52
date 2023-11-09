@@ -4,8 +4,9 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/sFarukhS52/count.svg" />
 </p>
+
 [!](https://komarev.com/ghpvc/?username=FarukhS52&style=for-the-badge&label=PROFILE+VIEWS)
 
 
