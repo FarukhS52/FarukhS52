@@ -7,7 +7,7 @@
   <img src="https://profile-counter.glitch.me/sFarukhS52/count.svg" />
 </p>
 
-[!](https://komarev.com/ghpvc/?username=FarukhS52&style=for-the-badge&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=FarukhS52&style=for-the-badge&label=PROFILE+VIEWS)
 
 
 <!--
