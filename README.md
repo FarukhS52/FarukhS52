@@ -1,5 +1,14 @@
 ### Hi there 👋
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 ![](https://komarev.com/ghpvc/?username=FarukhS52&style=for-the-badge&label=PROFILE+VIEWS)
+
+
 <!--
 **FarukhS52/FarukhS52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +29,7 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=FarukhS52&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![Farookh's's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarukhS52&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Farookh's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarukhS52&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=FarukhS52&theme=dark)](https://git.io/streak-stats)
 
