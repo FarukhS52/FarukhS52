@@ -1,8 +1,6 @@
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+
 
 <p align="center"> 
   Visitor count<br>
@@ -32,11 +30,11 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=FarukhS52&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![Farookh's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarukhS52&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Farookh's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarukhS52&theme=synthwaave&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=FarukhS52&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=FarukhS52&theme=synthwave)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarukhS52&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarukhS52&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](https://visitcount.itsvg.in/api?id=FarukhS52&label=Profile%20Views&color=5&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
