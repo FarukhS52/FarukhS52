@@ -1,11 +1,15 @@
 
 
-
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sFarukhS52/count.svg" />
 </p>
+
+<a href="https://www.instagram.com/imnot_farukh/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
 
 ![](https://komarev.com/ghpvc/?username=FarukhS52&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -29,12 +33,13 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=FarukhS52&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-![Farookh's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarukhS52&theme=synthwaave&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=FarukhS52&theme=synthwave)](https://git.io/streak-stats)
 
+![Farookh's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarukhS52&show_icons=true&theme=synthwave&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarukhS52&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+![Snake animation](https://github.com/FarukhS52/FarukhS52/blob/output/github-contribution-grid-snake.svg)
 
 [![](https://visitcount.itsvg.in/api?id=FarukhS52&label=Profile%20Views&color=5&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
